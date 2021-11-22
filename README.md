@@ -4,6 +4,7 @@ Towards Layer-wise Image Vectorization
 <div align="center">
   <img src="example.png" width="650px" height="300px">
 </div>
+LIVE is able to explicitly presents a Layer-wise representation for simple images. 
 
 ## Installation
 ```bash
