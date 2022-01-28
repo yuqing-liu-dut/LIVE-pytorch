@@ -1,7 +1,7 @@
 # LIVE-pytorch
 Towards Layer-wise Image Vectorization
 
-### Updated： 
+### Updated for rebuttal (Jan/28/2022)： 
 we added  detailed [conda env file](env.yml) and collected detail [system information](system_info.txt) to help the installation.
 
 A more detailed docker and Google Colab demo will be provided.
