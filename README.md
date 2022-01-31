@@ -2,6 +2,13 @@
 Towards Layer-wise Image Vectorization
 
 ### Updated for rebuttal (Jan/28/2022)： 
+#### User study
+We create a [user study](https://wj.qq.com/s2/9665341/19ed) as suggested. A more complex user study will be added in the revised version.
+
+The results are collected here: [user study details](user_study_state.csv)
+
+#### Code installation
+
 we added  detailed [conda env file](env.yml) and collected detail [system information](system_info.txt) to help the installation.
 
 A more detailed docker and Google Colab demo will be provided.
