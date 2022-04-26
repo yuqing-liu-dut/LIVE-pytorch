@@ -35,6 +35,6 @@ Next, please refer DiffVG to install [pydiffvg](https://github.com/BachiLi/diffv
 
 ## Run
 ```bash
-python main.py --config config/all.yaml --experiment experiment_8x1 --signature demo1 --target data/demo1.png
+python main.py --config config/all.yaml --experiment experiment_5x1 --signature demo1 --target data/demo1.png
 ```
 Please modify the config files to change configurations.
